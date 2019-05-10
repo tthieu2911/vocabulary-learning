@@ -1,11 +1,6 @@
-const express = require('express');
-const app = express();
-const path = require('path');
+var connect = require('connect');
+var serveStatic = require('serve-static');
 
-app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, 'index.html'));
-});
-
-app.listen(process.env.PORT || 3000, function(){
-    console.log('Your node js server is running');
+connect().use(serveStatic(__dirname)).listen(8080, function(){
+    console.log('Server running on 8080...');
 });
