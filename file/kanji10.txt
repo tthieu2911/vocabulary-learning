@@ -1,0 +1,112 @@
+日///NHẬT/Ngày, mặt trời
+月///NGUYỆT/Tháng, mặt trăng
+火///HỎA/Lửa
+水///THỦY/Nước
+木///MỘC/Cây, gỗ
+金///KIM/Tiền, vàng, kim loại
+土///THỔ/Đất
+山///SƠN/Núi
+川///XUYÊN/Sông
+田///ĐIỀN/Ruộng
+一///NHẤT/Một
+二///NHỊ/Hai
+三///TAM/Ba
+四///TỨ/Bốn
+五///NGŨ/Năm
+六///LỤC/Sáu
+七///THẤT/Bảy
+八///BÁT/Tám
+九///CỬU/Chín
+十///THẬP/Mười
+百///BÁCH/Một trăm
+千///THIÊN/Một ngàn
+万///VẠN/Mười ngàn
+円///VIÊN/Tròn, viên mãn, tiền yên
+学///HỌC/Học sinh, học tập
+生///SINH/Học sinh, sinh sống
+先///TIÊN /Trước, trước tiên
+会///HỘI/Gặp gỡ, hội nghị
+社///XÃ/Xã hội, xã viên
+員///VIÊN/Nhân viên, thành viên
+医///Y/Y học, y sĩ
+者///GIẢ/Người, học giả
+本///BẢN/Nhật Bản, bản chất
+国///QUỐC/Quốc gia
+中///TRUNG/Bên trong, trung gian
+人///NHÂN/Người
+今///KIM/Bây giờ, hiện tại
+朝///TRIỀU/Buổi sáng
+昼///TRÚ/Buổi trưa
+晩///VÃN/Buổi tối
+時///THỜI/Thời gian
+分///PHÂN/Phân chia, phần, phút
+半///BÁN/Phân nửa
+午///NGỌ/Giờ ngọ, giữa trưa
+前///TIỀN/Phía trước
+後///HẬU/Phía sau
+休///HƯU/Nghỉ ngơi, nghỉ hưu
+毎///MỖI/Mỗi
+何///HÀ/Cái gì
+行///HÀNH/Hành động, đi
+来///LAI/Đến, tương lai
+校///HIỆU/Trường học, hiệu trưởng
+週///CHU/Tuần lễ
+去///KHỨ/Quá khứ
+年///NIÊN/Năm
+駅///DỊCH/Nhà ga
+電///ĐIỆN/Điện
+車///XA/Xe
+自///TỰ/Tự mình, tự nhiên
+転///CHUYỂN/Di chuyển
+動///ĐỘNG/Di động, cử động
+高///CAO/Cao, mắc
+安///AN/An tâm, rẻ
+大///ĐẠI/To lớn
+小///TIỂU/Nhỏ
+新///TÂN/Mới
+古///CỔ/Cũ
+青///THANH/Màu xanh
+白///BẠCH/Màu trắng
+赤///XÍCH/Màu đỏ
+黒///HẮC/Màu đen
+上///THƯỢNG/Trên
+下///HẠ/Dưới
+父///PHỤ/Cha
+母///MẪU/Mẹ
+子///TỬ/Con
+手///THỦ/Tay
+好///HẢO/Tốt
+主///CHỦ/Chủ nhân
+肉///NHỤC/Thịt
+魚///NGƯ/Cá
+食///THỰC/Ăn
+飲///ẨM/Uống
+物///VẬT/Đồ vật
+近///CẬN/Gần
+間///GIAN/Không gian, thời gian
+右///HỮU/Bên phải
+左///TẢ/Bên trái
+外///NGOẠI/Bên ngoài
+男///NAM/Con trai
+女///NỮ/Con gái
+犬///KHUYỂN/Con chó
+書///THƯ/Viết
+聞///VĂN/Nghe
+読///ĐỘC/Đọc
+見///KIẾN/Nhìn, xem
+話///THOẠI/Nói chuyện
+買///MÃI/Mua
+起///KHỞI/Thức dậy, khởi nghĩa
+帰///QUY/Quay về
+友///HỮU/Bằng hữu, bạn bè
+達///ĐẠT/Thành đạt
+茶///TRÀ/Trà
+酒///TỬU/Rượu
+写///TẢ/Miêu tả
+真///CHÂN/Chân thật
+紙///CHỈ/Tờ giấy
+映///ÁNH/Ánh sáng
+画///HỌA, HOẠCH/Kế hoạch
+店///ĐIẾM/Cửa hàng
+英///ANH/Nước Anh, anh hùng
+語///NGỮ/Ngôn ngữ

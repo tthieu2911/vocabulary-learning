@@ -1,0 +1,290 @@
+わたし/tôi
+わたしたち/chúng ta, chúng tôi
+あなた/anh,chị, ông, bà
+あのひと/あの人/người kia
+あのかた/あの方/vị kia
+みなさん/皆さん/mọi người
+さん/anh , chị 
+じん/人/người
+せんせい/先生/thầy, cô
+きょうし/教師/giáo viên
+がくせい/学生/học sinh, sinh viên
+かいしゃいん/会社員/nhân viên công ty
+しゃいん/社員/nhân viên công ty 
+ぎんこういん/銀行員/nhân viên ngân hàng
+いしゃ/医者/bác sĩ
+エンジニア/kỹ sư
+だいがく/大学/trường đại học
+びょういん/病院/bệnh viện
+だれ/ai
+どなた/ngài nào, vị nào
+さい/－歳/tuổi
+なんさい/何歳/mấy tuổi
+おいくつ/mấy tuổi
+はい/vâng
+いいえ/không
+しつれいですが/失礼ですが/xin lỗi
+おなまえは？/お名前は？/bạn tên gì?
+どうぞよろしくおねがいします/どうぞよろしく[お願いします]。/mong được giúp đỡ
+こちらはさんです/đây là ngài 
+からきました/đến từ 
+アメリカ/mỹ
+イギリス/anh
+インド/ấn độ
+インドネシア/indonesia
+かんこく/韓国/hàn quốc
+タイ/thái lan
+ちゅうごく/中国/trung quốc
+ドイツ/đức
+にほん/日本/nhật bản
+フランス/pháp
+ブラジル/brazil
+あの/kia
+ほん/sách
+じしょ/từ điển
+ざっし/tạp chí
+しんぶん/báo
+ノート/tập
+てちょう/sổ tay
+めいし/danh thiếp
+カード/thẻ, card
+テレホンカード/thẻ điện thoại
+えんびつ/bút chì
+ポールペン/bút bi
+とけい/đồng hồ
+かぎ/chìa khóa
+かさ/cái dù
+かばん/cái cặp
+テレビ/tivi
+ラジオ/radio
+カメラ/máy chụp hình
+コンピューター/máy vi tính
+じどうしゃ/xe hơi
+つくえ/cái bàn
+いす/cái ghế
+チョコレート/kẹo socola
+コーヒー/cà phê
+えいご/tiếng anh
+にほんご/tiếng nhật
+ご/tiếng
+なん/cái gì
+なに/cái gì
+これ/cái này, đây
+それ/cái đó, đó
+あれ/cái kia, kia
+そう/đúng rồi
+ちがいます/không phải, sai rồi
+そうですか/thế à
+あのう/ngập ngừng
+ほんのきもちです/đây là chút lòng thành
+どうぞ/xin mời
+どうも/cám ơn
+どうも＞ありがとう＜ございます。/xin chân thành cám ơn
+これからおせわになります。/từ nay mong được giúp đỡ
+こちらこそよろしく。/chính tôi mới là người mong được giúp đỡ
+ここ/chỗ này, đây
+そこ/chỗ đó, đó
+あそこ/chỗ kia, kia
+どこ/chỗ nào, ở đâu
+こちら/phía này, chỗ này, đây
+そちら/phía đó, chỗ đó
+あちら/phía kia, chỗ kia
+どちら/phía nào, chỗ nào
+きょうしつ/教室/phòng học
+しょくどう/食堂/nhà ăn
+じむしょ/事務所/văn phòng
+かいぎしつ/会議室/phòng họp
+うけつけ/受付/quầy tiếp tân
+ロビー/hành lang
+へや/部屋/phòng
+トイレ（おてあらい）/nhà vệ sinh
+かいだん/階段/cầu thang
+エレベーター/thang máy
+エスカレーター/thang cuốn
+[お]くに/国/đất nước
+かいしゃ/会社/công ty
+うち/nhà
+でんわ/điện thoại
+でんしゃ/電話/tàu điện
+くつ/靴/giày
+ネクタイ/cà vạt
+ワイン/rượu vang
+タバコ/thuốc lá
+うりば/売り場/quầy bán hàng
+ちか/tầng hầm
+―かい（－がい）/tầng thứ
+なんがい/tầng mấy
+―えん/―円/yên
+いくら/bao nhiêu tiền
+ひゃく/百/trăm
+せん/千/nghìn
+まん/万/vạn
+すみません/xin lỗi
+(を）みせてください/xin cho xem
+じゃ（~を）ください/thế thì
+イタリア/ý
+スイス/thụy sỹ
+おきます/dậy, thức dậy
+ねます/寝ます/ngủ, đi ngủ
+はたらきます/働きます/làm việc
+やすみます/休みます。/nghỉ, nghỉ ngơi
+べんきょうします/勉強します/học
+おわります/終わります/hết, kết thúc, xong
+デパート/bách hóa
+ぎんこう/銀行/ngân hàng
+ゆうびんきょく/郵便局/bưu điện
+としょかん/図書館/thư viện
+びじゅつかん/美術館/bảo tàng mỹ thuật
+でんわばんごう/電話番号/số điện thoại
+なんばん/何番/số mấy
+いま/今/bây giờ
+～じ/～時/giờ
+～ふん/分/phút
+はん/半/rưỡi, nữa
+なんじ/何時/mấy giờ
+なんぷん/何分/mấy phút
+ごぜん/午前/sáng, trước 12 giờ trưa
+ごご/午後/chiều, sau 12 giờ trưa
+あさ/朝/sáng, buổi sáng
+ひる/昼/trưa, buổi trưa
+ばん/晩/tối, buổi tối
+よる/夜/tối, buổi tối
+おととい/hôm kia
+きのう/hôm qua
+きょう/今日/hôm nay
+あした/明日/ngày mai
+あさって/ngày mốt
+けさ/今朝/sáng nay
+こんばん/tối nay
+ゆうべ/tối hôm qua
+ひるやすみ/昼休み/nghỉ trưa
+まいあさ/毎朝/mỗi sáng
+まいばん/毎晩/mỗi tối
+まいにち/毎日/mỗi ngày
+げつようび/月曜日/thứ 2
+かようび/火曜日/thứ 3
+すいようび/水曜日/thứ 4
+もくようび/木曜日/thứ 5
+きんようび/金曜日/thứ 6
+どようび/土曜日/thứ 7
+にちようび/日曜日/chủ nhật
+なんようび/何曜日/thứ mấy
+ばんごう/番号/số điện thoại, số phòng
+～から/từ
+～まで/đến
+～と/và
+たいへんですね/大変ですね/vất vả nhỉ
+えーと/ừ, à 
+ニューヨーク/new york
+ペキン/bắc kinh
+バンコク/bangkok
+ロンドン/luân đôn
+ロサンゼルス/LA
+おといあわせ/số điện thoại bạn muốn hỏi là
+～を　おねがいします/làm ơn
+じむいん/事務員/nhân viên
+かちょう/課長/trưởng nhóm
+どうりょう/同僚/đồng nghiệp
+しょるい/書類/tài liệu
+ざんぎょう/残業/over time
+きゅうりょう/給料/tiền lương
+かいぎ/会議/cuộc họp
+ばんせん/―番線/sân ga số
+いきます/行きます/đi
+きます/来ます/đến
+かえります/帰ります/về
+がっこう/  学校/trường học
+スーパー/siêu thị
+えき/駅/ga, nhà ga
+ひこうき/飛行機/máy bay
+ふね/船/thuyền, tàu thủy
+でんしゃ/電車/tàu điện
+ちかてつ/地下鉄/tàu điện ngầm
+しんかんせん/新幹線/tàu shinkansen
+バス/xe buýt
+タクシー/taxi
+じてんしゃ/自転車/xe đạp
+あるいて/歩いて/đi bộ
+ともだち/友達/bạn, bạn bè
+かれ/彼/anh ấy, bạn trai
+かのじょ/彼女/chị ấy, bạn gái
+かぞく/家族/gia đình
+せんしゅう/先週/tuần trước
+こんしゅう/今週/tuần này
+らいしゅう/来週/tuần sau
+せんげつ/先月/tháng trước
+こんげつ/今月/tháng này
+らいげつ/来月/tháng sau
+きょねん/去年/năm ngoái
+ことし/năm nay
+らいねん/来年/năm sau
+―がつ/―月/tháng
+なんがつ/何月/tháng mấy
+ついたち/１日/mùng 1
+ふつか/２日/mùng 2, 2 ngày
+みっか/３日/mùng 3, 3 ngày
+よっか/４日/mùng 4, 4 ngày
+いつか/５日/mùng 5, 5 ngày
+むいか/６日/mùng 6, 6 ngày
+なのか/７日/mùng 7, 7 ngày
+ようか/８日/mùng 8, 8 ngày
+ここのか/９日/mùng 9, 9 ngày
+とおか/１０日/mùng 10, 10 ngày
+なんにち/何日/ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày
+いつ/bao giờ, khi nào
+たんじょうび/誕生日/sinh nhật
+ふつう/普通/tàu thường
+きゅうこう/急行/tàu tốc hành
+とっきゅう/特急/tàu tốc hành đặc biệt
+つぎの/次の/tiếp theo
+どういたしまして/không có chi
+たべます/食べます/ăn
+のみます/飲みます/uống
+すいます [たばこを～]/吸います/hút thuốc
+みます/見ます/xem, nhìn, trông
+ききます/聞きます/nghe
+よみます/読みます/đọc
+かきます/書きます/viết, vẽ
+かいます/買います/mua
+とります[しゃしんを～]/撮ります [写真を～]/chụp ảnh
+します/làm
+あいます [ともだちに～]/会います [友達に～]/gặp bạn
+ごはん/cơm, bữa ăn
+あさごはん/朝ごはん/cơm sáng
+ひるごはん/昼ごはん/cơm trưa
+ばんごはん/晩ごはん/cơm tối
+パン/bánh mì
+たまご/卵/trứng
+にく/肉/thịt
+さかな/魚/cá
+やさい/野菜/rau
+くだもの/果物/hoa quả, trái cây
+みず/水/nước
+おちゃ/お茶/trà
+こうちゃ/紅茶/trà đen
+ぎゅうにゅう (ミルク)/牛乳/sữa bò
+ジュース/nước hoa quả
+ビール/bia
+[お]さけ/[お]酒/rượu, rượu sake
+ビデオ/video, băng video, đầu video
+えいが/映画/phim, điện ảnh
+てがみ/手紙/thư
+レポート/báo cáo
+しゃしん/写真/ảnh
+みせ/店/cửa hàng, tiệm
+レストラン/nhà hàng
+にわ/庭/vườn
+しゅくだい/宿題/bài tập về nhà
+テニス/quần vợt
+サッカー/bóng đá
+[お]はなみ/[お]花見/ngắm hoa
+いっしょに/cùng, cùng nhau
+ちょっと/một chút
+いつも/luôn luôn, lúc nào cũng
+ときどき/時々/thỉnh thoảng
+それから/sau đó, tiếp theo
+いいですね。/được đấy nhỉ/ hay quá
+わかりました。/tôi hiểu rồi
+なにですか。/何ですか。/có gì đấy ạ?/ cái gì vậy?/ vâng có tôi (câu trả lời khi ai đó gọi tên mình)
+じゃ、また[あした]。/hẹn gặp lại
+メキシコ/Mexico

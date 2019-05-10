@@ -1,0 +1,97 @@
+h1 {
+	text-align: center;
+}
+/* Hira */
+.column {
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+
+.hira_contain {
+    border: 1px solid;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: #F5F5F5;
+}
+
+.mode {
+    text-align: center;
+}
+
+
+.radio-inline {
+    margin-left: 10px;
+}
+
+#first_words, #second_words {
+    height: 50px;
+    width: 430px;
+}
+
+.row.hira {
+    display: block;
+}
+
+
+.first_contain {
+    height: 100px;
+    border: 1px solid;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+    font-size: 27px;
+    font-weight: bold;
+    background-color: #F5F5F5;
+    overflow: hidden;
+}
+
+.right_word_contain {
+    margin-top: 15px;
+    max-height: 300px;
+    height: 200px;
+    border: 1px solid;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* Kanji */
+
+.row.kanji {
+}
+
+.kanji_block {
+    border: 0.1px solid;
+    padding: 12px;
+
+}
+
+.action-kanji {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.kanji_contain {
+    border: 1px solid;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: #F5F5F5;
+}
+
+.form-control {
+    height: 35px;
+    margin-top: 10px;
+}
+
+.kanji_result_contain {
+    margin-top: 7px;
+    font-size: 15px;
+}
+
+.result_kanji {
+    height: 40px;
+}

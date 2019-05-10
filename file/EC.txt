@@ -1,0 +1,191 @@
+﻿Overview: E-Commerce/Mua bán qua MẠNG MÁY TÍNH
+Overview: E-Business/Thương mại SỐ HÓA
+Overview: Customer Services/Dịch vụ khách hàng
+Overview: Collaborative/Hợp tác
+Overview: E-Learning/Đào tạo từ xa
+Overview: Intrabusiness/Giao dịch điện tử nội bộ
+Overview: Agent/Đại lý phân phối
+Overview: Product/Sản phẩm
+Overview: Process/Qui trình
+Overview: Traditional Commerce/Thương mại truyền thống
+Overview: Partial Electronic Commerce/Bán thương mại điện tử
+Overview: Pure Electronic Commerce/Thuần thương mại điện tử
+Overview: Brick-and-mortar/Gạch và vữa
+Overview: Click-and-mortar/Nhấn và vữa
+Overview: Virtual/Ảo
+Overview: Digital level/mức độ số hóa
+Overview: Electronic Market/Thị trường điện tử
+Overview: Inter-Organizational Information System/Hệ thống thông tin liên doanh
+Overview: Intra-Organizational Information System/Hệ thống thông tin nội bộ
+Overview: [Framework]_ EC Application/Tầng Ứng dụng
+Overview: [Framework]_ Support/Tầng Hỗ trợ
+Overview: [Framework]_ Infrastructure/Tầng Cơ sở
+Overview: [Framework]_ [Support Element]_ People/Con người
+Overview: [Framework]_ [Support Element]_ Public Policy/Chính sách công
+Overview: [Framework]_ [Support Element]_ Marketing and Advertisement/Quảng cáo 
+Overview: [Framework]_ [Support Element]_ Support Services/Dịch vụ hỗ trợ
+Overview: [Framework]_ [Support Element]_ Business Partnerships/Đối tác kinh doanh
+Overview: B2B/Business-to-Business/Công ty với nhau
+Overview: B2C/Business-to-Customer/Bán lẻ người tiêu dùng
+Overview: B2B2C/Business-to-Business-to-Customer/Công ty - đại lý - người tiêu dùng
+Overview: C2B/Customer-to-Business/Cá nhân - công ty
+Overview: C2C/Customer-to-Customer/Ngang hành - người tiêu dùng
+Overview: M-Commerce/Mobile Commerce/Giao dịch mạng không dây
+Overview: V-Commerce/Voice-based Commerce/Giao dịch bằng giọng nói
+Overview: L-Commerce/Location-base Commerce/Giao dịch dựa vào địa điểm
+Overview: B2E/Business-to-Employee/Công ty - Nhân viên
+Overview: C-Commerce/Collaborative Commerce/Giao dịch thương mại cộng tác
+Overview: E-Government_ G2B/Government-to-Business/Chính phủ - Doanh nghiệp
+Overview: E-Government_ G2C/Government-to-Citizens/Chính phủ - Người dân
+Overview: Nonbusiness EC/Đào tạo từ xa
+Overview: E2E/Exchange-to-Exchange/Trao đổi thông tin
+Overview: SCM/Supply Chain Management/Quản lý chuỗi cung ứng
+Overview: ERP/Enterprise Resourses Planning/Hoạch định nguồn tài nguyên
+Overview: CRM/Customer Relationship Management/Quản lý quan hệ khách hàng
+Overview: EFT/Electronic Funds Transfer/Giao dịch quỹ điện tử
+Overview: EDI/Electronic Data Interchange/Trao đổi dữ liệu điện tử
+Overview: [Limit]_ Trust Issue/Vấn đề niềm tin
+Overview: [Limit]_ Language Issue/Vấn đề ngôn ngữ
+Overview: [Limit]_ Cultural Issue/Vấn đề văn hóa
+Overview: [Limit]_ Cuture and Government Issue/Vấn đề văn hóa và chính phủ
+Overview: [Limit]_ Infrastructure Issue/Vấn đề hạ tầng
+E-Market: E-Market/Thị trường điện tử
+E-Market: E-Marketplace/Thị trường điện tử
+E-Market: Marketspace/Thị trường điện tử
+E-Market: [B2C]_ E-Storefont/Cửa hàng điện tử
+E-Market: [B2C]_[E-Store]_ E-Catalog/Danh mục hàng hóa
+E-Market: [B2C]_[E-Store]_ Search Engine/Công cụ tìm kiếm
+E-Market: [B2C]_[E-Store]_ E-Cart/Giỏ hàng
+E-Market: [B2C]_[E-Store]_ E-Auction/Phương tiện đấu giá
+E-Market: [B2C]_[E-Store]_ Payment Gateway/Cổng thanh toán
+E-Market: [B2C]_[E-Store]_ Shipping Court/Khu vực gửi hàng
+E-Market: [B2C]_[E-Store]_ Customer Services/Dịch vụ khách hàng
+E-Market: [B2C]_ E-Mall/Siêu thị điện tử
+E-Market: [B2C]_[E-Mall]_ Directory/Danh bạ hàng hóa
+E-Market: [B2C]_[E-Mall]_ E-Stores/Danh sách của hàng
+E-Market: [B2B]_ Sell Side/One - to - Many/Thị trường riêng Bán hàng
+E-Market: [B2B]_ Buy Side/One - from - Many/Thị trường riêng Mua hàng
+E-Market: [B2B]_ Exchange/Thị trường chung Trao đổi
+E-Market: Infomediary/Người môi giới thông tin
+E-Market: Infomediary - disintermediation/Cung cấp thông tin
+E-Market: Infomediary - reintermediation/Cung cấp dịch vụ
+E-Market: Liquidity/Lưu chuyển
+E-Market: Negotiation (1-1)/Thương lượng
+E-Market: Bargaining (1-1)/Mặc cả
+E-Market: Bartering (1-1)/Trao đổi
+E-Market: Auction/Đấu giá
+E-Market: Tendering (n-1)/Bỏ thầu
+E-Market: Forward (Regular) Auction (1-n)/Đấu giá thuận
+E-Market: Reverse Auction (n-1)/Đấu giá nghịch
+E-Market: Dynamic Exchange (n-n)/Trao đổi linh động
+E-Market: English_ Yankee_ Dutch_ Free fall/Forward Auction/Đấu giá thuận
+E-Market: Name your own price Auction/Reverse Auction/Đấu giá nghịch
+BM-B2C: BM/Business Model/Mô hình kinh doanh
+BM-B2C: Revenue Model/Mô hình Doanh thu
+BM-B2C: Value chain/Chuỗi giá trị
+BM-B2C: Sales Model/Mô hình bán lẻ
+BM-B2C: E-Tailler/Nhà bán lẻ
+BM-B2C: Advertisement Model/Mô hình quảng cáo
+BM-B2C: Affiliate Model/Mô hình quảng cáo
+BM-B2C: Web Portal_ E-Newspaper_ Classified Ads/Web sử dụng mô hình quảng cáo
+BM-B2C: Job seeker/Người tìm việc
+BM-B2C: Recruiter/Người tuyển dụng
+BM-B2C: Job Angency/Môi giới việc làm
+BM-B2C: Subscription Model/Mô hình phí định kỳ
+BM-B2C: Transaction Fees Model/Mô hình phí giao dịch
+BM-B2B: Purchase/Mua
+BM-B2B: Logistic/Hậu cần
+BM-B2B: Support/Hỗ trợ
+BM-B2B: Direct Material/Nguyên liệu trực tiếp
+BM-B2B: Indirect Material/Nguyên liệu gián tiếp
+BM-B2B: MRO/Maintenance, Repair, Operating/Loại hàng hóa gián tiếp
+BM-B2B: Contract purchasing /Mua bán trên hợp đồng dài hạn
+BM-B2B: Strategic sourcing/Nguồn hàng chiến lược
+BM-B2B: Spot purchasing/Mua bán gấp và cần hiết
+BM-B2B: Vertical Marketplace/Chỉ trong 1 ngành nghề/Thị trường chiều dọc
+BM-B2B: Horizontal Marketplace/Chỉ trong 1 dich vụ trong ngành nghề/Thị trường chiều ngang
+BM-B2B: VMI/Vendor Managed Inventory/Nhà cung cấp quản lý hàng tồn kho
+Software: Seft-hosting/Tự triển khai
+Software: Third-party Web-hosting service provider/Thuê dịch vụ Web-Hosting
+Software: Third-paty host provider/Thuê nhà cung cấp dịch vụ Hosting
+Software: [Basic]_ Catalog Display/Trình bày danh mục hàng hóa
+Software: [Basic]_ Shopping Cart/Giỏ hàng
+Software: [Basic]_ Transaction Process/Xử lý giao dịch
+Software: [Advance]_ Database/Cơ sở dữ liệu
+Software: [Advance]_[Database]_ DBMS/DataBase Management System/Hệ quản trị cơ sở dữ liệu
+Software: [Advance]_[Database]_ Distributed DB/Distributed DataBase/Cơ sở dữ liệu phân tán
+Software: [Advance]_ Middleware/Phần mềm trung gian
+Software: [Advance]_ Enterprise application Integration/Tích hợp ứng dụng hệ thống
+Software: [Advance]_[Enterprise application Integration]_ Page-based/
+Software: [Advance]_[Enterprise application Integration]_ Component-based/
+Software: [Advance]_[EAI]_[ERP]_ Order Management/Quản lý bán hàng
+Software: [Advance]_[EAI]_[ERP]_ Financial Management/Quản lý tài chính
+Software: [Advance]_[EAI]_[ERP]_ Logistic Management/Quản lý hậu cần
+Software: [Advance]_[EAI]_[ERP]_ Production Management/Quản lý sản xuất
+Software: [Advance]_ Web Service/Dịch vụ web
+Software: CSPs/Commerce Service Providers/Nhà cung cấp dịch vụ thương mại
+Software: MSPs/Managed Service Providers/Nhà cung cấp dịch vụ quản lý
+Software: ASPs/Application Service Providers/Nhà cung cấp dịch vụ ứng dụng
+Software: Content Management Application/Phần mềm quản lý dữ liệu
+Software: Knowledge Management Appication/Phần mềm quản lý tri thức
+Payment: Payment card/Thẻ thanh toán
+Payment: Electronic cash/Tiền điện tử
+Payment: E-wallet/Ví điện tử
+Payment: Stored-value card/Thẻ lưu giá trị
+Payment: IIN/Issuer Identification Number/Mã số định danh
+Payment: Luhn/Thuật toán Luhn
+Payment: [Payment card]_ Credit card/Thẻ tín dụng
+Payment: [Payment card]_ Debit card/Thẻ ghi nợ
+Payment: [Payment card]_ Charge card/Thẻ mua hàng
+Payment: [Payment card]_ EMV Standard/"Europay, Mastercard, and Visa"/Tiêu chuẩn EVM về thẻ thanh toán
+Payment: [Payment card]_ Settlement/Thanh toán
+Payment: [Payment card]_ COD/Cash On Delivery/Thanh toán khi nhận hàng
+Payment: [Payment card]_ POS/Point Of Sale/Máy thanh toán bằng thẻ
+Payment: [Payment card]_ Fraudulent card transaction/Giao dịch thẻ giả
+Payment: [Payment card]_ AVS/Address Verification System/Hệ thống xác thực địa chỉ giao dịch
+Payment: [Payment card]_ Card Verfication Number/Số xác thực thẻ
+Payment: [E-wallet]_ ECML Standard/Electronic Commerce Modeling Language/Chuẩn ngôn ngữ mô hình hóa trong Thương mại điện tử
+Payment: [Stored-value card]_ Magnetic Stripe Card/Thẻ từ
+Payment: [Stored-value card]_ Smart Card/Thẻ thông minh
+Payment: [Stored-value card]_ Contact Smart Card/Thẻ gắn chíp
+Payment: [Stored-value card]_ Contactless Smart Card/Thẻ không tiếp xúc
+E-Maketing: Vendor/Người bán
+E-Maketing: Consumer/Người tiêu dùng
+E-Maketing: E-Marketing/Tiếp thị điện tử
+E-Maketing: [1-1]_ Personalization/Cá nhân hóa
+E-Maketing: [1-1]_ Loyalty/Lòng trung thành
+E-Maketing: [1-1]_ Trust/Độ tin cậy
+E-Maketing: [1-1]_ Collaborative Filtering/Dự đoán
+E-Maketing: [1-1]_[Personalization]_ Preferences/Sở thích
+E-Maketing: [1-1]_[Personalization]_ Behaviors/Hành vi
+E-Maketing: [1-1]_[Personalization]_ Demographics/Tiểu sử
+E-Maketing: [1-1]_[Collaborative Filtering]_ KNN/K-Nearest Neighbor/dự đoán theo khu vực
+E-Maketing: [1-1]_[Collaborative Filtering]_ Memory - based algorithm/dự đoán theo lịch sử
+E-Maketing: [1-1]_[Collaborative Filtering]_ Model - based algorithm/dự đoán theo mô hình
+E-Maketing: [1-1]_[Collaborative Filtering]_ Rule - based algorithm/dự đoán theo luật
+E-Maketing: [1-1]_[Collaborative Filtering]_ Content - based algorithm/dự đoán theo nội dung
+E-Maketing: [1-1]_[Collaborative Filtering]_ Activity - based algorithm/dự đoán theo hành động
+E-Maketing: [1-1]_[Collaborative Filtering]_ User - based algorithm/dự đoán theo người dùng
+E-Maketing: [1-1]_[Collaborative Filtering]_ Item - based algorithm/dự đoán theo sản phẩm
+E-Maketing: Shopping consultance/Hỗ trợ tư vấn mua hàng
+E-Maketing: Strategic/Chiến lược
+E-Maketing: Makerting Strategic/Chiến lược tiếp thị
+E-Maketing: 4Ps/Product-Price-Promotion-Place/Chiến lược tiếp thị 4Ps
+E-Maketing: [4Ps]_[Product]_ Co-creator Customer/Đồng sáng chế
+E-Maketing: [4Ps]_[Product]_ Co-Design/Đồng thiết kế
+E-Maketing: [4Ps]_[Product]_ Collaborating/Đồng cộng tác
+E-Maketing: [4Ps]_[Product]_ Sharing/Chia sẻ
+E-Maketing: [4Ps]_[Product]_ Tinkering/Đồng chỉnh sửa
+E-Maketing: [4Ps]_[Promotion]_ UGC/User Generate Content/Người dùng tạo ra nội dung
+E-Maketing: [4Ps]_[Price]_ PWYW/Pay What You Want/Trả tiền cho những gì bạn muốn
+E-Maketing: IAB/Interactive Advertising Bureau
+Security: Phishing/Sử dụng web giả
+Security: Encrytion/Mã hóa
+Security: Digital Signature/Chữ ký điện tử
+Security: [Problem]_ 1. Authentication/Chứng thực người dùng
+Security: [Problem]_ 2. Authorization/Chứng thực quyền sử dụng
+Security: [Problem]_ 3. Auditing/Theo dõi hoạt động
+Security: [Problem]_ 4. Confidentiality (Privacy)/Giữ bí mật thông tin
+Security: [Problem]_ 5. Integrity/Toàn vẹn thông tin
+Security: [Problem]_ 6. Availability/Khả năng sẵn sàng đáp ứng
+Security: [Problem]_ 7. Nonrepudiation/Không thể từ chối trách nhiệm

@@ -1,0 +1,167 @@
+﻿Introduction: Human/con người
+Introduction: Computer/máy tính
+Introduction: Interaction/tương tác
+Introduction: UX/Trải nghiệm người dùng
+Introduction: User Experience/Trải nghiệm người dùng
+Introduction: UI/Giao diện người dùng
+Introduction: User Interface/Giao diện người dùng
+Introduction: Usability/tính khả dụng
+Introduction: Useful/dùng được
+Introduction: Usable/dễ dùng
+Introduction: Use/muốn dùng
+Introduction: Ergonomics/Công thái học
+Introduction: Anthropologist/Nhân chủng học
+Introduction: Emplementation/Thực hành
+Background - Computer: Alphanumeric Keyboard/Bàn phím chữ số
+Background - Computer: Chord keyboard/Bàn phím thanh
+Background - Computer: Numeric Keypad/Bàn phím số
+Background - Computer: Pointing devices/Thiết bị trỏ
+Background - Computer: Joystick/Cần cảm ứng
+Background - Computer: Eyegaze/Tương tác bằng mắt
+Background - Computer: Bitmap Display (CTR / LCD)/Màn hình ánh xạ bit
+Background - Computer: Random scan display/Màn hình quét ngẫu nhiên
+Background - Computer: Situated display/Màn hình tình huống
+Background - Computer: Data glove/găng tay điều khiển
+Background - Computer: Virtual Reality Markup Language (VRML)/Ngôn ngữ thể hiện thực tế ảo
+Background - Human: Compensate/Điều chỉnh
+Background - Human: Sensory memory/Bộ nhớ liên quan tới giác quan
+Background - Human: Iconic/Mang tính tượng hình
+Background - Human: Echoic/Mang tính tượng thanh
+Background - Human: Haptic/Xúc giác
+Background - Human: Episodic/Tình tiết
+Background - Human: Sematic/Ngữ nghĩa
+Background - Human: Sematic Network/Mạng ngữ nghĩa
+Background - Human: Reasoning/Suy luận
+Background - Human: Deductive/Suy diễn
+Background - Human: Inductive/Qui nạp
+Background - Human: Abductive/Suy ngược
+Background - Interaction: Batch input/nhập hết lệnh, thực hiện 1 lần
+Background - Interaction: Interactive input/nhập từng lên, thực hiện từng lần
+Background - Interaction: Paradigms of interaction/Mẫu tương tác
+Background - Interaction: Batch Processing/Xử lý theo lô
+Background - Interaction: Time-sharing/chia sẻ thời gian
+Background - Interaction: Net-working/nối mạng
+Background - Interaction: Graphic Display/Màn hình đồ họa
+Background - Interaction: Microprocessor/Vi xử lý
+Background - Interaction: World Wide Web/Thông tin toàn cầu
+Background - Interaction: Ubiquitous computing/Tính toán khắp nơi
+Background - Interaction: Programming toolkits/Bộ công cụ lập trình
+Background - Interaction: Personal computing/Tính toán cá nhân
+Background - Interaction: Metaphor/Ẩn dụ
+Background - Interaction: Direct manipulation/Thao tác trực tiếp
+Background - Interaction: WYSIWYG/What You See Is What You Get
+Background - Interaction: Multimodality/Đa phương thức
+Background - Interaction: Multimedia/Đa phương tiện
+Background - Interaction: Computer supported cooperative work/Máy tính hỗ trợ công việc cộng tác
+Background - Interaction: Agent-based interfaces/Giao diện dựa trên tác nhân
+Background - Interaction: Sensor-based and context-aware interaction/Tương tác dựa trên cảm biến và nhận biết ngữ cảnh
+Background - Interaction: Domain/Lĩnh vực
+Background - Interaction: Task/Công việc
+Background - Interaction: Intention/Ý định
+Background - Interaction: Gulfs of execution/Chuỗi các hành động do người dùng lập ra
+Background - Interaction: Gulfs of evaluation/Mong đợi trạng thái hệ thống từ người dùng
+Background - Interaction: Presentation/Biểu diễn
+Background - Interaction: Observation/Quan sát
+Background - Interaction: Articulation/Phát biểu rõ ràng
+Background - Interaction: Performance/Thực hiện
+Background - Interaction: Shading/Đổ bóng
+Design Process: Trade-off/Thỏa hiệp
+Design Process: Discovery/khám phá
+Design Process: Conceptual Model/Mô hình mức quan niệm
+Design Process: Legacy/Nguyên thủy
+Design Process: Conception/Quan niệm
+Design Process: Perpetual Deployment/Liên tục triển khai
+Discovery: Stakeholders Interview/Phỏng vấn
+Discovery: Competitive Audit/Theo dõi
+Discovery: Ecosystem Map/Bản đồ sinh học
+Discovery: Experience Map/Bản đồ trải nghiệm
+Discovery: Key Performance Indicators (KPIs)/Thể hiện hiệu năng chính
+Discovery: Persona/Nhân vật
+Discovery: Value proposition/Tuyên bố giá trị
+Conception: User Flow/Luồng hành động
+Conception: Taxonomy/Phân nhánh
+Conception: Task Analysis/Phân tích công việc
+Conception: Use case and Scenario/Kịch bản
+Conception: Site Map/Biểu đồ cây
+Conception: Storyboard/Khung câu chuyện
+Conception: Concept Video/Video mẫu
+Prototype & Design: Sketch/Bản nháp
+Prototype & Design: Moodboard/
+Prototype & Design: Wireframe/
+Prototype & Design: Heuristic Analysis/Phân tích khám phá
+Prototype & Design: Prototype/Bản mẫu
+Prototype & Design: Visual Design/Thiết kế vẻ ngoài
+Evaluation & Deployment: Focus group/Khảo sát nhóm
+Evaluation & Deployment: Usability Test/Kiểm tra tính khả dụng
+Evaluation & Deployment: A-B Testing/Kiểm tra tính kiểm soát
+Evaluation & Deployment: Survey/Khảo sát
+Evaluation & Deployment: Eyetracking/Kiểm tra bằng mắt
+Design Process: Principle/Nguyên tắc
+Design Process: Affordance/Gợi ý cách sử dụng
+Design Process: Visibility/Dễ dàng nhìn thấy
+Design Process: Constraint/Những thứ có thể và không thể làm
+Design Process: Mapping/Liên hệ tới mọi thứ
+Design Process: Feedback/Những gì đang làm và đã làm
+Design Process: Consistency/Quen thuộc
+Persona: Demographic/Nhân khẩu học
+Persona: Motivation/Động lực
+Persona: Pains/Khó khăn
+Persona: Wish/Mong muốn
+Persona: Touch points/Điểm chạm đến cảm xúc
+Persona: Quote/Câu châm ngôn
+User Discovery: Intrisive/Xâm nhập
+User Discovery: contextual inquiry/Điều tra theo ngữ cảnh
+User Discovery: Ethnography (Live with them)/Chung sống 
+User Discovery: Shadowing (Be like them)/Bắt chước
+User Discovery: Apprentice/học nghề
+User Discovery: Ecology (Sinh thái học)/Hợp tác, phối hợp
+User Discovery: Artifact/phần được hưởng lợi
+Hypothetical/Giả thuyết
+UI - UX: Effective/Có hiệu quả
+UI - UX: Efficient/Có hiệu suất tốt
+UI - UX: Easy to learn/Dễ học
+UI - UX: Easy to remember/Dễ nhớ
+UI - UX: Safe/An toàn
+UI - UX: Engaging/Có tính kết nối
+UI - UX: Intutive/Trực quan
+UI - UX: Motivating/có động lực
+Storyboard: Context is very IMPORTANT/ngữ cảnh rất quan trọng
+Storyboard: Comminicate/Giao tiếp
+Storyboard: CUMAX/Cao trào
+Storyboard: Extreme long shot/khung hình toàn cảnh, vị trí
+Storyboard: Long shot/khung hình toàn cơ thể người
+Storyboard: Medium shot/Khung hình chân dung
+Storyboard: Over-shoulder shot/Khung hình qua vai
+Storyboard: Point-of-view shot/khung hình góc nhìn thứ nhất
+Storyboard: Close-up/Khung hình cận cảnh đối tượng
+Storyboard: Emphasize/Nhấn mạnh
+Storyboard: Emphasize Actions and Motions/Nhấn mạnh hành động và chuyển động
+Storyboard: Demonstrate/Biểu lộ
+Storyboard: Iterate/Lặp lại
+Storyboard: Plausible/Hợp lý
+Storyboard: Annotate/Chú thích
+Prototype: Fidetity/Tính thực tế
+Prototype: Hand sketch/Phác họa bằng tay
+Prototype: Paper prototype/Mẫu trên giấy
+Prototype: Interactive Prototype/Mẫu tương tác thử 
+Prototype: Video Prototype/Video Mẫu tương tác
+Prototype: Semi-functional prototype/Mẫu gần đủ chức năng
+Prototype: Fully-functional prototype/Mẫu đầy đủ chức năng
+Visual Design: Visual Design/Thiết kế vẻ ngoài
+Visual Design: Graphic Design/Thiết kế đồ họa
+Visual Design: UI Design/Thiết kế giao diện người dùng
+Visual Design: Contrast/Sự tương phản
+Visual Design: Alignment/Căn lề
+Visual Design: Repetition/Sự lặp lại
+Visual Design: Proximity/Gom nhóm
+Visual Design: User Control/Nút điều khiển
+Wizad-of-Oz: Wizad-of-Oz Roles (Facilicator, "Computer", Note-taker")/Vai trò trong Wizard of Oz testing
+Wizad-of-Oz: Facilicator/Người hướng dẫn
+Wizad-of-Oz: Esability Test/Kiểm tra tính khả dụng
+Wizad-of-Oz: Metric/Số liệu
+Wizad-of-Oz: Factor/hoàn cảnh
+Wizad-of-Oz: Independet Variable/Condition that is intentionally changed by the experimenter. There can be ONLY ONE per Exp/Biến không phụ thuộc
+Wizad-of-Oz: Dependent Variable/The factors that measured or observe as data; Change as a RESULT of independent variables, Can be more than 1 Dependent variables per Exp/Biến phụ thuộc
+Wizad-of-Oz: Controlled Variable/The factors or conditions that kept the SAME in an Exp; Many controlled variables per Exp/Biến kiểm soát
+Wizad-of-Oz: Null hypothesis/Giả thuyết phủ định
+Wizad-of-Oz: p-value/Vùng giá trị quan sát có khả năng xảy ra cao
