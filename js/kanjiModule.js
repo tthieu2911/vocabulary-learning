@@ -123,7 +123,7 @@ var kanjiModule = (function () {
 			"</div>" +
 			"<div class ='kanji_result_contain'>" +
 			"<lable class='onkun_label'></lable>" +
-			"<div class='kanji_result_contain'>" +
+			"<div class='kanji_result_contain dvKanjiResult'>" +
 			"<lable>Result: </lable>" +
 			"<span class='result_kanji'></span>" +
 			"</div>" +
