@@ -121,6 +121,7 @@ var kanjiModule = (function () {
 		}
 	}
 
+	// use to seperate VNese meanings
 	var splitWords = function (words) {
 		var arr = words.split(",").map(function (item) {
 			return item.trim();
