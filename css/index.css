@@ -1,6 +1,12 @@
 h1 {
 	text-align: center;
 }
+
+label {
+    display: inline-block;
+    text-align: right;
+}
+
 /* Hira */
 .column {
     float: left;
@@ -67,11 +73,6 @@ h1 {
     border: 0.1px solid;
     padding: 12px;
 
-}
-
-.action-kanji {
-    text-align: center;
-    margin-bottom: 5px;
 }
 
 .kanji_contain {
