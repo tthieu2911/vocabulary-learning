@@ -1,3 +1,4 @@
+
 var hiraModule = (function() {
 
 	var hira = {};
@@ -8,6 +9,7 @@ var hiraModule = (function() {
 	var secondWord_input;
 	var listGroup_list;
 	var hfirstLoad = true;
+	var HiraFile;
 	
 	// private
 	hira.initEvent = function(){
@@ -21,23 +23,28 @@ var hiraModule = (function() {
 		listGroup_list = $("#hira_contain .list-group");
 
 		// load data
-		this.reload();
+		this.reload(HiraFile);
 	}
 
-	hira.reload = function() {
+	hira.reload = function(HiraFile) {
 		if(hfirstLoad){
 			importData('file/japanese.txt');
-			setTimeout( function() {  // show words
-				showWord();
-			}, 200);
-			$("#hira_contain #resultLabel").text("");
-			listGroup_list.empty();
-			firstWord_div.html("");
-			secondWord_input.val("");
-			secondWord_input.focus();
-			
 			hfirstLoad = false;
 		}
+		else{
+			var cutFilename = HiraFile.split("/");
+			var len = cutFilename.length;
+			importData(cutFilename[len-1]);
+		}
+
+		setTimeout( function() {  // show words
+			showWord();
+		}, 200);
+		$("#hira_contain #resultLabel").text("");
+		listGroup_list.empty();
+		firstWord_div.html("");
+		secondWord_input.val("");
+		secondWord_input.focus();
 	}
 
 	hira.onEnterWords = function($this, event) {

@@ -2,10 +2,9 @@ window.modules = {};
 var currentModule = "";
 var moduleHira = "hira";
 var moduleKanji = "kanji";
-var moduleIelts = "ielts";
 var hira_contain = $("#hira_contain");
 var kanji_div = $("#kanji_div");
-
+var fileName;
 
 $(function() {
 	"use strict"
@@ -20,6 +19,18 @@ $(function() {
 	hira_contain.show();
 	kanji_div.hide();
 });
+
+function importFile() {
+
+	fileName = hira_contain.find(":input[type='file']").val();
+
+	if (currentModule === moduleHira){
+		modules[moduleHira].reload(fileName);
+	}
+	if (currentModule === moduleKanji){
+		modules[moduleKanji].reload(fileName);
+	}
+}
 
 function onEnterWords($this, event) {
 	modules[currentModule].onEnterWords($this, event);
