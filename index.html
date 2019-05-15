@@ -7,21 +7,54 @@
 
 <body>
   <h1 class="col-md-12 col-sm-12 col-12">LEARNING </h1>
+
+  <!-- Handling File uploaded -->
+
+
+  <form ref='uploadForm' id='uploadForm' action='/upload' method='post' encType="multipart/form-data">
+    <div class="container-fluid row">
+      <div class="col-md-1 col-sm-1 col-1"></div>
+      <div class="col-md-10 col-sm-10 col-10">
+        <div class="col-md-12 col-sm-12 col-12 contain row">
+          <!-- file -->
+          <div class="col-md-8 col-sm-8 col-8 ">
+            <input type="file" name="lessonFile" />
+          </div>
+          
+          <!-- button -->
+          <div class="col-md-4 col-sm-4 col-4 text-right">
+            <button type="submit" class="btn btn-primary btn-success">
+              <li class="fa fa-upload"></li>
+              <span> Upload File </span>
+            </button>
+          </div>
+          
+        </div>
+        <hr>
+      </div>
+      <div class="col-md-1 col-sm-1 col-1"></div>
+    </div>
+  </form>
+
+
+
+  <!-- Handling Mode changed -->
   <div class="container-fluid row text-center">
     <div class="col-md-3 col-sm-3 col-3"></div>
     <div class="col-md-3 col-sm-3 col-3">
       <label class="radio-inline "><input type="radio" name="optradio" value="hira" onchange="changeMode('hira')"
           checked>
-        <span>Hira Mode</span></label>
+        <span> Hira Mode</span></label>
     </div>
     <div class="col-md-3 col-sm-3 col-3">
       <label class="radio-inline "><input type="radio" name="optradio" value="kanji" onchange="changeMode('kanji')">
-        <span>Kanji Mode</span>
+        <span> Kanji Mode</span>
       </label>
     </div>
     <div class="col-md-3 col-sm-3 col-3"></div>
   </div>
 
+  <!-- Handling Hiragana mode -->
   <div class="container-fluid" id="hira_contain">
     <div class="row hira">
       <div class="col-md-12 col-sm-12 container-fluid row">
@@ -36,8 +69,8 @@
         <div class="col-md-2 col-sm-2"></div>
         <div class="col-md-8 col-sm-8 row">
           <div class="col-md-12 col-sm-12">
-              <label>Result : </label>
-              <span id="resultLabel"></span>
+            <label>Result : </label>
+            <span id="resultLabel"></span>
           </div>
         </div>
         <div class="col-md-2 col-sm-2"></div>
@@ -46,7 +79,8 @@
       <div class="col-md-12 col-sm-12 container-fluid row">
         <div class="col-md-2 col-sm-2"></div>
         <div class="col-md-8 col-sm-8 row">
-          <input type="text" class="form-control col-md-12 col-sm-12" id="second_words" placeholder="typing..." onkeydown="onEnterWords(this, event)" />
+          <input type="text" class="form-control col-md-12 col-sm-12" id="second_words" placeholder="typing..."
+            onkeydown="onEnterWords(this, event)" />
         </div>
         <div class="col-md-2 col-sm-2"></div>
       </div>
@@ -64,7 +98,7 @@
     </div>
   </div>
 
-  <!-- Kanji division -->
+  <!-- Handling Kanji mode --> -->
   <div class="container-fluid" id="kanji_div">
     <div class="action-kanji row">
       <div class="col-md-3 col-sm-3 col-3"></div>
@@ -89,6 +123,8 @@
       </div>
     </div>
   </div>
+
+
 
   <!-- Script -->
   <script type="text/javascript" src="jquery-3.3.1.min.js"></script>

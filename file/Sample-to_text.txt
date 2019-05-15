@@ -1,0 +1,63 @@
+おきます/dậy, thức dậy
+ねます/寝ます/ngủ, đi ngủ
+はたらきます/働きます/làm việc
+やすみます/休みます。/nghỉ, nghỉ ngơi
+べんきょうします/勉強します/học
+おわります/終わります/hết, kết thúc, xong
+デパート/bách hóa
+ぎんこう/銀行/ngân hàng
+ゆうびんきょく/郵便局/bưu điện
+としょかん/図書館/thư viện
+びじゅつかん/美術館/bảo tàng mỹ thuật
+でんわばんごう/電話番号/số điện thoại
+なんばん/何番/số mấy
+いま/今/bây giờ
+～じ/～時/giờ
+～ふん/分/phút
+はん/半/rưỡi, nữa
+なんじ/何時/mấy giờ
+なんぷん/何分/mấy phút
+ごぜん/午前/sáng, trước 12 giờ trưa
+ごご/午後/chiều, sau 12 giờ trưa
+あさ/朝/sáng, buổi sáng
+ひる/昼/trưa, buổi trưa
+ばん/晩/tối, buổi tối
+よる/夜/tối, buổi tối
+おととい/hôm kia
+きのう/hôm qua
+きょう/今日/hôm nay
+あした/明日/ngày mai
+あさって/ngày mốt
+けさ/今朝/sáng nay
+こんばん/tối nay
+ゆうべ/tối hôm qua
+ひるやすみ/昼休み/nghỉ trưa
+まいあさ/毎朝/mỗi sáng
+まいばん/毎晩/mỗi tối
+まいにち/毎日/mỗi ngày
+げつようび/月曜日/thứ hai
+かようび/火曜日/thứ ba
+すいようび/水曜日/thứ tư
+もくようび/木曜日/thứ năm
+きんようび/金曜日/thứ sáu
+どようび/土曜日/thứ bảy
+なんようび/何曜日/thứ mấy
+ばんごう/番号/số điện thoại, số phòng
+～から/từ
+～まで/đến
+～と/và
+たいへんですね/大変ですね/vất vả nhỉ
+えーと/ừ, à 
+ニューヨーク/new york
+ペキン/bắc kinh
+バンコク/bangkok
+ロンドン/luân đôn
+ロサンゼルス/LA
+おといあわせ/số điện thoại bạn muốn hỏi là
+～を　おねがいします/làm ơn
+かしこまりました/đã hiểu rồi
+
+
+
+
+

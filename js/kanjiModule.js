@@ -6,6 +6,7 @@ var kanjiModule = (function () {
 	var lastInput;
 	var ctrlCount = 0;
 	// private
+
 	kanji.initEvent = function () {
 		this.reload();
 	}
@@ -16,25 +17,44 @@ var kanjiModule = (function () {
 
 	kanji.onEnterWords = function ($this, event) {
 		var key = event.keyCode;
-		if (key === 13) // enter
-			this.checkWord($this);
-		else if (key === 17) //Ctrl
-			this.showWordResult($this);
-		else if (key === 39) { //forward
-			$($this).parent().parent().next().children().eq(1).find('input').focus();
-			this.checkWord($this);
+		
+		switch (key){
+			case 13: { // enter
+				this.checkWord($this);
+				ctrlCount = 0;
+				break;
+			}
+			case 17: {//Ctrl
+				this.showWordResult($this);
+				break;
+			}
+			case 39: { //forward
+				$($this).parent().parent().next().children().eq(1).find('input').focus();
+				this.checkWord($this);
+				ctrlCount = 0;
+				break;
+			}
+			case 37: { //backwward
+				$($this).parent().parent().prev().children().eq(1).find('input').focus();
+				this.checkWord($this);
+				ctrlCount = 0;
+				break;
+			}
+			case 9: { //tab
+				var lastBlock = $($this).parent().parent().prev().children().eq(1).find('input');
+				this.checkWord(lastBlock);
+				$($this) = lastInput;
+				ctrlCount = 0;
+				break;
+			}
 		}
-		else if (key === 37) { //backwward
-			$($this).parent().parent().prev().children().eq(1).find('input').focus();
-			this.checkWord($this);
-		}
-		else if (key === 9) { //tab
-			var lastBlock = $($this).parent().parent().prev().children().eq(1).find('input');
-			this.checkWord(lastBlock);
-			$($this) = lastInput;
-		}
+
 		lastInput = $($this);
 	}
+
+	kanji.onFocus = function ($this) {
+		ctrlCount = 0;
+	}	
 
 	kanji.checkWord = function ($this) {
 		var input = $($this);
@@ -141,7 +161,7 @@ var kanjiModule = (function () {
 			"<lable>Result: </lable>" +
 			"<span class='result_kanji'></span>" +
 			"</div>" +
-			"<input type='input' kanjiKey='" + JSON.stringify(obj) + "' class='form-control' onkeyup='onEnterWords(this, event)'/>" +
+			"<input type='input' kanjiKey='" + JSON.stringify(obj) + "' class='form-control' onkeyup='onEnterWords(this, event)' onfocus='onFocus(this)'/>" +
 			"</div>" +
 			"</div>";
 

@@ -25,6 +25,10 @@ function onEnterWords($this, event) {
 	modules[currentModule].onEnterWords($this, event);
 }
 
+function onFocus($this) {
+	modules[currentModule].onFocus($this);
+}
+
 function mixKanjiWord() {
 	modules.kanji.mixWord();
 	$('.kanji_block').each(function(){
