@@ -4,6 +4,7 @@ var kanjiModule = (function () {
 	var dictionary = [];
 	var kanji_area = $("#kanji_area");
 	var lastInput;
+	var ctrlCount = 0;
 	// private
 	kanji.initEvent = function () {
 		this.reload();
@@ -72,7 +73,19 @@ var kanjiModule = (function () {
 		var kanjiObj;
 		var attributeContent = input.attr('kanjiKey');
 		kanjiObj = JSON.parse(attributeContent);
-		input.parent().find('.result_kanji').removeClass("text-success").addClass("text-danger").text(kanjiObj.vietnamese_ori);
+		switch (ctrlCount){
+			case 0:{
+				input.parent().find('.result_kanji').removeClass("text-success").addClass("text-danger").text(kanjiObj.vietnamese_ori);
+				ctrlCount = 1;
+				break;
+			}
+			case 1:{
+				input.parent().find('.result_kanji').removeClass("text-success").addClass("text-danger").text(kanjiObj.vietnamese);
+				ctrlCount = 0;
+				break;
+			}
+		}
+		
 		input.val('');
 	}
 
