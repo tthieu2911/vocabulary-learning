@@ -1,4 +1,3 @@
-
 // THIS WORKS
 
 /* var connect = require('connect');
@@ -19,9 +18,9 @@ app.use(fileUpload());
 
 // Handling File upload 
 app.post('/upload', function(req, res) {
-    
+
     if (Object.keys(req.files).length == 0) {
-      return res.status(400).send('No files were uploaded.');
+        return res.status(400).send('No files were uploaded.');
     }
 
     // Input Name
@@ -30,7 +29,7 @@ app.post('/upload', function(req, res) {
 
     // Move file to place
     file.mv('./file/' + fileName, function(err) {
-        if (err){
+        if (err) {
             return res.status(500).send(err);
         }
     });
@@ -38,7 +37,13 @@ app.post('/upload', function(req, res) {
     res.send('File uploaded!');
     res.end();
 });
-
+/* 
 var port = 8000;
 app.listen(port);
-console.log('server on ' + port);
+console.log('server on ' + port); */
+
+const PORT = process.env.PORT || 8000;
+app.listen(PORT, () => {
+    console.log(`App listening on port ${PORT}`);
+    console.log('Press Ctrl+C to quit.');
+});
