@@ -114,3 +114,9 @@
 分//Phân chia, phần, phút/PHÂN
 午//Giờ ngọ, giữa trưa/NGỌ
 毎//mỗi/MỖI
+春/はる/mùa xuân/XUÂN
+夏/なつ/mùa hè/HÈ
+秋/あき/mùa thu/THU
+冬/ふゆ/mùa đông/ĐÔNG
+
+
