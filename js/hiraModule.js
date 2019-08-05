@@ -26,15 +26,16 @@ var hiraModule = (function() {
     }
 
     hira.reload = function(HiraFile) {
-        if (hfirstLoad) {
-            importData('file/japanese.txt');
-            hfirstLoad = false;
+        /* if (hfirstLoad) {
+        	importData('file/japanese.txt');
+        	hfirstLoad = false;
         } else {
-            var cutFilename = HiraFile.split("/");
-            var len = cutFilename.length;
-            importData(cutFilename[len - 1]);
-        }
+        	var cutFilename = HiraFile.split("/");
+        	var len = cutFilename.length;
+        	importData(cutFilename[len - 1]);
+        } */
 
+        importData('file/japanese.txt');
         setTimeout(function() { // show words
             showWord();
         }, 200);
